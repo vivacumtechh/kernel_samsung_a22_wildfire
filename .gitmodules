@@ -1,0 +1,6 @@
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/vivacumtechh/KernelSU-Next.git
+[submodule "toolchain"]
+	path = toolchain
+	url = https://github.com/Samsung-MT6769-Devs/toolchain.git
